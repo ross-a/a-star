@@ -1,1 +1,1 @@
-# a-star
+# A* search (path finding)
